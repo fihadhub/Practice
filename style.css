@@ -1,0 +1,122 @@
+*{
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+}
+.first{
+    background-color: #748873;
+    height: 190px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+img{
+height: 200px;
+width: 200px;
+margin-left: 0.1rem;
+border-radius: 50%; 
+}
+.second{
+    background-color: #D1A980;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.third{
+    background-color: #D1A980;
+    height: 350px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px
+}
+.project1{
+background-color: #E5E0D8;
+width: 200px;
+height: 250px;
+display: inline-block;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+.project2{
+    background-color: #E5E0D8;
+width: 200px;
+height: 250px;
+display: inline-block;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+.project3{
+    background-color: #E5E0D8;
+width: 200px;
+height: 250px;
+display: inline-block;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+.project4{
+     background-color: #E5E0D8;
+width: 200px;
+height: 250px;
+display: inline-block;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+.table{
+    margin-left: 40px;
+    border: 1px solid rgb(243, 242, 242);
+    box-shadow: 0px 0px 1px rgb(253, 253, 252);
+
+}
+ span{
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+    
+ }
+ footer{
+    background-color: #D1A980;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .one{
+    text-align: center;
+ }
+ .two{
+    text-align: center;
+ }
+ .para{
+    text-align: center;
+ }
+ .hover:hover{
+    background-color: #3b1f032c;
+    border: 2px solid #8a4504;
+ }
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+}
+ .box{
+    background-color: #E5E0D8;
+    height: 30px;
+    width: 90px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .box:hover{
+    background-color: #3b1f032c;
+    border: 2px solid #8a4504;
+ }
